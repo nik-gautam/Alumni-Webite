@@ -48,7 +48,7 @@ h4,
 h5,
 h6 {
 	margin: 0;
-	color: #111111;
+	color: #000000;
 	font-weight: 500;
 	font-family: "Oswald", sans-serif;
 }
@@ -141,7 +141,7 @@ ol {
 	top: -30px;
 	width: 52px;
 	height: 7px;
-	background: #82D026;
+	background: #202060;
 	content: "";
 	right: 0;
 	margin: 0 auto;
@@ -179,7 +179,7 @@ ol {
 	font-weight: 500;
 	padding: 22px 55px;
 	color: #ffffff;
-	background: #82D026;
+	background: #202060;
 	letter-spacing: 0.5px;
 	font-family: "Oswald", sans-serif;
 	text-transform: uppercase;
@@ -187,7 +187,7 @@ ol {
 
 .submit-btn {
 	color: #ffffff;
-	background: #82D026;
+	background: #202060;
 	font-size: 14px;
 	font-weight: 400;
 	border: none;
@@ -323,7 +323,7 @@ ol {
 
 .inner-header .logo {
 	float: left;
-	padding-top: 27px;
+	padding-top: 30px;
 	padding-left: 40px;
 }
 
@@ -358,7 +358,7 @@ ol {
 }
 
 .inner-header .main-menu ul li a.active {
-	background: #82D026;
+	background: #202060;
 	color: #ffffff;
 }
 
@@ -368,7 +368,7 @@ ol {
 	top: 25px;
 	width: 24px;
 	height: 7px;
-	background: #82D026;
+	background: #202060;
 	content: "";
 }
 
@@ -381,7 +381,7 @@ ol {
 .inner-header .main-menu ul li.phone-num i {
 	height: 34px;
 	width: 34px;
-	background: #82D026;
+	background: #29fc22;
 	color: #ffffff;
 	display: inline-block;
 	text-align: center;
@@ -400,7 +400,7 @@ ol {
 .inner-header .main-menu ul li.search-btn {
 	font-size: 22px;
 	padding: 30px 35px 31px 35px;
-	background: #82D026;
+	background: #202060;
 	color: #ffffff;
 	cursor: pointer;
 	margin-right: 0;
@@ -421,15 +421,15 @@ ol {
 
 .hero-text h1 {
 	font-size: 90px;
-	color: #ffffff;
-	font-weight: 700;
+	color: #da5dda;
+	font-weight: bolder;
 	position: relative;
 	opacity: 0;
 	top: 50px;
 }
 
 .hero-text p {
-	color: #ffffff;
+	color: #101a44;
 	margin-bottom: 30px;
 	position: relative;
 	opacity: 0;
@@ -458,7 +458,7 @@ ol {
 }
 
 .hero-items .owl-nav button[type=button]:hover {
-	background: #82D026;
+	background: #202060;
 }
 
 .hero-items .owl-nav button[type=button].owl-next {
@@ -511,7 +511,7 @@ ol {
 -----------------------*/
 
 .booking-heading {
-	background: #82D026;
+	background: #202060;
 	padding: 75px 0 59px 220px;
 	height: 280px;
 	margin-left: -15px;
@@ -587,7 +587,7 @@ ol {
 }
 
 .single-services {
-	background: #82D026;
+	background: #202060;
 	text-align: center;
 	color: #ffffff;
 	padding-top: 22px;
@@ -625,7 +625,7 @@ ol {
 }
 
 .client-text h4 span {
-	color: #82D026;
+	color: #da5dda;
 }
 
 /*---------------------
@@ -695,7 +695,7 @@ ol {
 -----------------------*/
 
 .callto-section {
-	background: #82D026;
+	background: #202060;
 	padding-top: 65px;
 	padding-bottom: 52px;
 }
@@ -779,7 +779,7 @@ ol {
 	top: -32px;
 	height: 7px;
 	width: 52px;
-	background: #82D026;
+	background: #202060;
 	content: "";
 }
 
@@ -827,7 +827,7 @@ ol {
 	height: 48px;
 	width: 48px;
 	border-radius: 50%;
-	background: #82D026;
+	background: #202060;
 	content: "";
 	-webkit-transition: 0.3s;
 	transition: 0.3s;
@@ -979,7 +979,7 @@ ol {
 	top: -23px;
 	height: 7px;
 	width: 52px;
-	background: #82D026;
+	background: #202060;
 	content: "";
 }
 
@@ -1006,7 +1006,7 @@ ol {
 	top: 6px;
 	height: 9px;
 	width: 9px;
-	background: #82D026;
+	background: #202060;
 	content: "";
 	border-radius: 50%;
 }
@@ -1021,7 +1021,7 @@ ol {
 }
 
 .single-classes-item {
-	background: #82D026;
+	background: #202060;
 	text-align: center;
 	margin-bottom: 30px;
 	padding-top: 30px;
@@ -1083,7 +1083,7 @@ ol {
 }
 
 .daily-work .work-hours.bg-color {
-	background: #82D026;
+	background: #202060;
 	padding-top: 7px;
 }
 
@@ -1178,7 +1178,7 @@ ol {
 	right: 0;
 	height: 7px;
 	width: 52px;
-	background: #82D026;
+	background: #202060;
 	content: "";
 	margin: 0 auto;
 }
@@ -1257,7 +1257,7 @@ ol {
 	top: -15px;
 	width: 118px;
 	height: 55px;
-	background: #82D026;
+	background: #202060;
 	line-height: 55px;
 	border-radius: 15px;
 	content: "";
@@ -1337,7 +1337,7 @@ ol {
 	top: -21px;
 	height: 7px;
 	width: 52px;
-	background: #82D026;
+	background: #202060;
 	content: "";
 }
 
@@ -1408,7 +1408,7 @@ ol {
 	top: -32px;
 	height: 7px;
 	width: 52px;
-	background: #82D026;
+	background: #202060;
 	content: "";
 }
 
@@ -1453,7 +1453,7 @@ ol {
 .contact-form .submit-btn.contact-btn {
 	width: 186px;
 	height: 65px;
-	background: #82D026;
+	background: #202060;
 	color: #ffffff;
 	padding: 0;
 	font-style: normal;
@@ -1576,7 +1576,7 @@ ol {
 }
 
 .accordin-elem .card-heading.active {
-	background: #82D026;
+	background: #202060;
 }
 
 .accordin-elem .card-heading.active a {
@@ -1630,7 +1630,7 @@ ol {
 .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
 	color: #fff !important;
-	background-color: #82D026;
+	background-color: #202060;
 }
 
 /*-- Milestone Counter --*/
@@ -1659,7 +1659,7 @@ ol {
 }
 
 .single-milestone-counter .counter-icon i {
-	color: #82D026;
+	color: #202060;
 }
 
 .single-milestone-counter .counter-text {
@@ -1754,7 +1754,7 @@ ol {
 }
 
 .single-icon-boxes i {
-	color: #82D026;
+	color: #202060;
 	margin-bottom: -4px;
 }
 
@@ -1799,9 +1799,9 @@ ol {
 	.inner-header .main-menu ul li:nth-child(5) {
 		margin-right: 10px;
 	}
-	.inner-header .main-menu ul li.phone-num {
+	/* .inner-header .main-menu ul li.phone-num {
 		padding: 31px 20px 29px 20px;
-	}
+	} */
 	.hero-text h1 {
 		font-size: 85px;
 	}
@@ -1867,9 +1867,9 @@ ol {
 	.inner-header .main-menu ul li:nth-child(5) {
 		margin-right: 5px;
 	}
-	.inner-header .main-menu ul li.phone-num {
+	/* .inner-header .main-menu ul li.phone-num {
 		padding: 31px 15px 29px 15px;
-	}
+	} */
 	.inner-header .main-menu ul li.search-btn {
 		padding: 30px 16px 31px 16px;
 	}
@@ -1945,17 +1945,17 @@ ol {
 		padding: 15px;
 		margin: 0;
 	}
-	.slicknav_nav ul li.phone-num {
+	/* .slicknav_nav ul li.phone-num {
 		padding: 15px 0;
-	}
+	} */
 	.slicknav_nav ul li.search-btn {
 		padding: 15px 0;
-		background: #82D026;
+		background: #202060;
 		cursor: pointer;
 	}
 	.slicknav_nav a:hover {
 		border-radius: 0;
-		background: #82D026;
+		background: #202060;
 		color: #ffffff;
 	}
 	.slicknav_nav ul li i {
