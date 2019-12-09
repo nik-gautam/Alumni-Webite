@@ -421,7 +421,7 @@ ol {
 
 .hero-text h1 {
 	font-size: 90px;
-	color: #da5dda;
+	color: white;
 	font-weight: bolder;
 	position: relative;
 	opacity: 0;
@@ -429,7 +429,7 @@ ol {
 }
 
 .hero-text p {
-	color: #101a44;
+	color: white;
 	margin-bottom: 30px;
 	position: relative;
 	opacity: 0;
